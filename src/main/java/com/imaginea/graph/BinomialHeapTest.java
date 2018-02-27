@@ -10,6 +10,7 @@ public class BinomialHeapTest {
         bh.insert(4);
         bh.insert(2);
         bh.insert(14);
+        bh.insert(2);
         bh.displayHeap();
     }
 }
