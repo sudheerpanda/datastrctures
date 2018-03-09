@@ -4,7 +4,7 @@ import java.util.Scanner;
 import java.util.Vector;
 
 /**
- * @author sudheerp 
+ * @author sudheerp
  */
 class Node
 {
