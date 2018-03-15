@@ -3,7 +3,7 @@ package com.imaginea.problems;
 import java.util.*;
 
 /**
- * @author sudheerp 
+ * @author sudheerp
  */
 class Node
 {
